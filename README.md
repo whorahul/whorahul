@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Rahul Balamwar 👋
 
-<!--
-**whorahul/whorahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to contribute to open source projects. I also love networking because it's something that is constantly growing and improving. Currently an undergrad BCA student, **Competitive Coder at [HackerRank](https://hackerrank.com)** and former **Google Summer of Code 2019 Developer at [GitLab](https://gitlab.com)**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Cisco CCNA Projects.
+- 🌱 I’m currently learning CCNP R&S, JAVA and helping tech community.
+- 👯 I’m willing to collaborate on building communitites, and research projects.
+- 📚 Reading more about Neural Networks, Penetration Testing and how the computer works.
+- 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/whorahul).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕵 Take a look at my repositories and let's get in touch!
+
+<br>
+<a href="https://twitter.com/whorahhul">
+  <img align="left" alt="Rahul Balamwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/whorahul/">
+  <img align="left" alt="Rahul Balamwar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
