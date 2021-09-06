@@ -7,7 +7,7 @@ Cyber Security, Pentester, Tech Enthusiast and a Hip-Hop fan. Currently an under
 - 🔭 I’m currently working on Cisco CCNA Projects.
 - 🌱 I’m currently learning CCNP R&S, JAVA and helping tech community.
 - 👯 I’m willing to collaborate on building communitites, and research projects.
-- 📚 Reading more about Neural Networks, Penetration Testing and how the computer works.
+- 📚 Reading more about Neural Networks and Penetration Testing.
 - 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/whorahul).
 
 🕵 Take a look at my repositories and let's get in touch!
