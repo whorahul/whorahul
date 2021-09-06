@@ -1,4 +1,4 @@
-### Hi, I'm Rahul Balamwar 👋
+
 <!-- Name Card -->
 ![Rahul Balamwar's Name Card](https://cardivo.vercel.app/api?name=Rahul%20Balamwar&description=Cyber%20Security%20Enthusiast,%20Part%20time%20Trader&image=https://avatars.githubusercontent.com/u/57124734?v=4&backgroundColor=%23313f43&linkedin=whorahul&github=whorahul&twitter=whorahhul&instagram=asap.rahul&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
 
