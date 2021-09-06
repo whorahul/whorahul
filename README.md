@@ -1,6 +1,6 @@
 ### Hi, I'm Rahul Balamwar 👋
 <!-- Name Card -->
-![Rahul Balamwar's Name Card](https://cardivo.vercel.app/api?name=Rahul%20Balamwar&description=Cyber%20Security%20Enthusiast&image=https://avatars.githubusercontent.com/u/57124734?v=4&backgroundColor=%23313f43&linkedin=whorahul&github=whorahul&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
+![Rahul Balamwar's Name Card](https://cardivo.vercel.app/api?name=Rahul%20Balamwar&description=Cyber%20Security%20Enthusiast,%20Part-%20Time%20Trader&image=https://avatars.githubusercontent.com/u/57124734?v=4&backgroundColor=%23313f43&linkedin=whorahul&github=whorahul&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
 
 I love to contribute to open source projects. I also love networking because it's something that is constantly growing and improving. Currently an undergrad BCA student, **Competitive Coder at [HackerRank](https://hackerrank.com)** and former **Google Summer of Code 2019 Developer at [GitLab](https://gitlab.com)**.
 
