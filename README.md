@@ -8,13 +8,11 @@ I love to contribute to open source projects. I also love networking because it'
 - 📚 Reading more about Neural Networks, Penetration Testing and how the computer works.
 - 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/whorahul).
 
+🕵 Take a look at my repositories and let's get in touch!
+
 <div style='height: 300px; width: 300px;border:1px solid #ff0000;display:table-cell;vertical-align: middle'>
 <img src= 'https://raw.githubusercontent.com/whorahul/whorahul/main/rahul-anonymous.gif' style='float:right;'/>
 </div>
-
-🕵 Take a look at my repositories and let's get in touch!
-
-
 
 <br>
 <a href="https://twitter.com/whorahhul">
