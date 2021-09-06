@@ -10,6 +10,8 @@ I love to contribute to open source projects. I also love networking because it'
 
 🕵 Take a look at my repositories and let's get in touch!
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/whorahul/whorahul/main/rahul-anonymous.gif" width="360px"/>
+
 <br>
 <a href="https://twitter.com/whorahhul">
   <img align="left" alt="Rahul Balamwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
