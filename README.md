@@ -10,7 +10,9 @@ I love to contribute to open source projects. I also love networking because it'
 
 🕵 Take a look at my repositories and let's get in touch!
 
-<img align="right" alt="GIF" height="300px" width="300px" src="https://raw.githubusercontent.com/whorahul/whorahul/main/rahul-anonymous.gif" width="300px"/>
+<DIV style='height: 300px; width: 300px;border:1px solid #ff0000;display:table-cell;vertical-align: middle'>
+<img src= 'https://raw.githubusercontent.com/whorahul/whorahul/main/rahul-anonymous.gif' style='float:right;'/>
+</DIV>
 
 <br>
 <a href="https://twitter.com/whorahhul">
